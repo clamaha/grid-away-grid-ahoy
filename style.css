@@ -47,9 +47,11 @@ h2{
     padding: 20px 10px;
 }
 
-p.text{
+.text{
     font-size: 18px;
     color: grey;
+    display: inline-block;
+    height: 150px;
 }
 
 .line {
@@ -58,13 +60,6 @@ p.text{
     margin: 15% 20%;
 }
 
-.line3 {
-    margin-top:7.5%;
-}
-
-.line7 {
-    margin-top: 22%;
-}
 
 .icon{
     font-size: 4rem;
